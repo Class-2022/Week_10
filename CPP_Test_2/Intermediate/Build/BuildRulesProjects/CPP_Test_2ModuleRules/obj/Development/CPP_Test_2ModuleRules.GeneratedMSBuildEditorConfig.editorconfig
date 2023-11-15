@@ -1,0 +1,13 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = CPP_Test_2ModuleRules
+build_property.ProjectDir = E:\Main_Folder\School\School\Game_AI\GitHub_2023\Look_at_Sensor_Repository\CPP_Test\CPP_Test_2\Intermediate\Build\BuildRulesProjects\CPP_Test_2ModuleRules\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

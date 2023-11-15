@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\main_folder\\school\\school\\game_ai\\github_2023\\look_at_sensor_repository\\cpp_test\\cpp_test_2\\source\\cpp_test_2\\c_l_point.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\main_folder\\school\\school\\game_ai\\github_2023\\look_at_sensor_repository\\cpp_test\\cpp_test_2\\intermediate\\build\\win64\\x64\\cpp_test_2editor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "e:\\main_folder\\school\\school\\game_ai\\github_2023\\look_at_sensor_repository\\cpp_test\\cpp_test_2\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\cpp_test_2\\definitions.cpp_test_2.h",
+            "e:\\main_folder\\school\\school\\game_ai\\github_2023\\look_at_sensor_repository\\cpp_test\\cpp_test_2\\source\\cpp_test_2\\c_l_point.h",
+            "e:\\main_folder\\school\\school\\game_ai\\github_2023\\look_at_sensor_repository\\cpp_test\\cpp_test_2\\intermediate\\build\\win64\\unrealeditor\\inc\\cpp_test_2\\uht\\c_l_point.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

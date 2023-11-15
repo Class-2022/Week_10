@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "CPP_Test_2",
+			"Path": "..\\Source\\CPP_Test_2.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "CPP_Test_2Editor",
+			"Path": "..\\Source\\CPP_Test_2Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

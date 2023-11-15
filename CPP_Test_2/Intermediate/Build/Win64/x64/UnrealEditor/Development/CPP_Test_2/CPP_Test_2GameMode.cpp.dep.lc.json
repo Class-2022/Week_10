@@ -1,0 +1,29 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\main_folder\\school\\school\\game_ai\\github_2023\\look_at_sensor_repository\\cpp_test\\cpp_test_2\\source\\cpp_test_2\\cpp_test_2gamemode.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\main_folder\\school\\school\\game_ai\\github_2023\\look_at_sensor_repository\\cpp_test\\cpp_test_2\\intermediate\\build\\win64\\x64\\cpp_test_2editor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "e:\\main_folder\\school\\school\\game_ai\\github_2023\\look_at_sensor_repository\\cpp_test\\cpp_test_2\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\cpp_test_2\\definitions.cpp_test_2.h",
+            "e:\\main_folder\\school\\school\\game_ai\\github_2023\\look_at_sensor_repository\\cpp_test\\cpp_test_2\\source\\cpp_test_2\\cpp_test_2gamemode.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "e:\\main_folder\\school\\school\\game_ai\\github_2023\\look_at_sensor_repository\\cpp_test\\cpp_test_2\\intermediate\\build\\win64\\unrealeditor\\inc\\cpp_test_2\\uht\\cpp_test_2gamemode.generated.h",
+            "e:\\main_folder\\school\\school\\game_ai\\github_2023\\look_at_sensor_repository\\cpp_test\\cpp_test_2\\source\\cpp_test_2\\cpp_test_2character.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\gameframework\\character.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\gameframework\\charactermovementreplication.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\experimental\\iris\\core\\public\\iris\\serialization\\irisobjectreferencepackagemap.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\iriscore\\uht\\irisobjectreferencepackagemap.generated.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\charactermovementreplication.generated.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\gameframework\\rootmotionsource.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\rootmotionsource.generated.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\character.generated.h",
+            "e:\\main_folder\\school\\school\\game_ai\\github_2023\\look_at_sensor_repository\\cpp_test\\cpp_test_2\\intermediate\\build\\win64\\unrealeditor\\inc\\cpp_test_2\\uht\\cpp_test_2character.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
